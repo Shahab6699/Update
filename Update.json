@@ -138,7 +138,7 @@
         "2606:4700:110:8ce8:245b:226d:3779:5c4f/128"
       ],
       "private_key": "IDqyeLkCdO3tVLIHv4uao4/zgr6N+ryw6nZ7nhCFXFU=",
-      "server": "2606:4700:d0::1551:8481:c699:bfa1]",
+      "server": "[2606:4700:d0::1551:8481:c699:bfa1]",
       "server_port": 987,
       "peer_public_key": "bmXOC+F1FxEMF9dyiK2H5/1SUtzH0JuVo51h2wPfgyo=",
       "reserved": "jKOc",
